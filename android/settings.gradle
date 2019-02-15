@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNative_IMT_Wahyu_Master'
+
+include ':app'
