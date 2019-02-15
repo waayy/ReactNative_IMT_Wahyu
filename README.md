@@ -1,3 +1,3 @@
-# ReactNative_IMT_Wahyu
+# React Native (IMT) 
 soal 1
 APLIKASI INDEKS MASA TUBUH
